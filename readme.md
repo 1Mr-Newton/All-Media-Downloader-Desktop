@@ -15,4 +15,4 @@ Overall, All Media Downloader is an excellent choice for anyone looking for a fa
 - Fast, reliable, and secure downloads using social media platform APIs
 - Progress bars, error handling, and pause/resume functionality for a smooth download experience
 
-![display image](ui.png)
+![display image](assets/ui.png)
