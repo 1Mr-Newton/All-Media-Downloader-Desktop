@@ -1,7 +1,7 @@
 # ALL MEDIA DOWNLOADER
 All Media Downloader is a convenient and powerful tool for downloading various types of media from social media platforms. With this Github project, users can easily download pictures, music, videos, and other types of media from popular social media websites like Facebook, Instagram, Twitter, and more.
 
-The project is designed to be simple and intuitive, allowing users to quickly download media without any hassle. It provides a streamlined user interface that makes it easy to search for and select the desired media, with options to download single or multiple files at once.
+The project is designed to be simple and intuitive, allowing users to quickly download media without any hassle. It provides a streamlined user interface that makes it easy to download the desired media, with options to download single or multiple files at once.
 
 The All Media Downloader project is built on top of the APIs provided by social media platforms, ensuring that downloads are fast, reliable, and secure. It also includes features like progress bars, error handling, and pause/resume functionality to make the download process as smooth and seamless as possible.
 
